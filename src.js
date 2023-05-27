@@ -3,7 +3,7 @@ let listcontainer = document.getElementById('list-container');
 let button= document.getElementById('button');
 
 // logic---------------->
-
+//this is also sample
 button.addEventListener('click',()=>{
     if(input.value===''){
         alert('Type Something Before Adding!');
